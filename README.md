@@ -1,2 +1,1 @@
-# Course Project
-Sentiment Analysis
+Sentiment Analysis on Twitter
